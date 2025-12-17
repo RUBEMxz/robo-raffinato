@@ -1,5 +1,5 @@
 # --------------------------------------------------------------------------- #
-#                    ROBÔ DE SAÍDA RAFFINATO v3.0 PRO                         #
+#                    ROBÔ DE SAÍDA  v3.0 PRO                                  #
 #                          By-Rubemxz | Enhanced                              #
 # --------------------------------------------------------------------------- #
 
@@ -143,7 +143,7 @@ class RaffinatoGUI:
         self._atualizar_estado_botoes("ocioso")
     
     def _configurar_janela(self):
-        self.root.title("🚀 Robô de Saída Raffinato v3.0 PRO - By-Rubemxz")
+        self.root.title("🚀 Robô de Saídas v3.0 PRO - By-Rubemxz")
         self.root.geometry("1100x800")
         self.root.minsize(1000, 700)
     
@@ -179,7 +179,7 @@ class RaffinatoGUI:
         
         titulo = ttk.Label(
             header_frame,
-            text="🚀 Robô de Saída Raffinato v3.0 PRO",
+            text="🚀 Robô de Saídas v3.0 PRO",
             font=("Segoe UI", 22, "bold"),
             bootstyle="primary"
         )

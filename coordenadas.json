@@ -1,0 +1,17 @@
+{
+    "coordenadas": {
+        "busca": {
+            "x": 827,
+            "y": 296
+        },
+        "quantidade": {
+            "x": 1092,
+            "y": 386
+        }
+    },
+    "configuracoes": {
+        "pyautogui_pause": 0.3,
+        "tempo_espera_pesquisa": 4.0,
+        "tempo_espera_confirmacao": 1.0
+    }
+}
